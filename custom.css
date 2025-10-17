@@ -1,0 +1,14 @@
+/* custom.css */
+body {
+    background-color: #f4f6f8;
+}
+[data-testid="stChatMessageUser"] {
+    background-color: #dcf8c6 !important;
+    border-radius: 12px;
+    padding: 10px;
+}
+[data-testid="stChatMessageAssistant"] {
+    background-color: #e8eaf6 !important;
+    border-radius: 12px;
+    padding: 10px;
+}
