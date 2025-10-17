@@ -15,7 +15,11 @@ import requests
 load_dotenv()
 
 # -------------------- Initialize model --------------------
-llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.7)
+import os
+
+api_key = os.environ["OPENAI_API_KEY"]
+llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.7, openai_api_key=api_key)
+
 
 # -------------------- Chat State --------------------
 class ChatState(TypedDict):
