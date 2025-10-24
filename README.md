@@ -8,11 +8,11 @@ Akash Chatbot is a **smart AI assistant** built using **LangGraph**, **OpenAI**,
 
 Try the chatbot in your browser:
 
-[**Access Akash Chatbot**](https://your-streamlit-url.streamlitapp.com)
+[**Access Akash Chatbot**](https://akash-chatbot-fvalyflxnqmkpc3pq3qbbh.streamlit.app/)
 
 You can also scan the QR code below to open it on mobile:
 
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://your-streamlit-url.streamlitapp.com)
+![QR Code](https://akash-chatbot-fvalyflxnqmkpc3pq3qbbh.streamlit.app/)
 
 ---
 
