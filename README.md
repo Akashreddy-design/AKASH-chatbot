@@ -12,7 +12,7 @@ Try the chatbot in your browser:
 
 You can also scan the QR code below to open it on mobile:
 
-![QR Code](https://akash-chatbot-fvalyflxnqmkpc3pq3qbbh.streamlit.app/)
+![QR Code](https://raw.githubusercontent.com/Akashreddy-design/AKASH-chatbot/294a874bda0d7c250e16e75d45b7c5e07000236a/akash_chatbot_qr.png)
 
 ---
 
